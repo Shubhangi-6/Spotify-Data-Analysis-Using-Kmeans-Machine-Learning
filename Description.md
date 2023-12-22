@@ -21,6 +21,9 @@ Certainly! Let's provide a brief description of each step in the Spotify Data An
 5. **2D Clustering (track_popularity and danceability):**
    - **Objective:** Explore clusters in a 2D space using two features.
    - **Process:** Standardize selected features using StandardScaler and perform k-means clustering. Visualize the clusters in a 2D scatter plot.
+   - ![elbow method 1](https://github.com/Shubhangi-6/Spotify-Data-Analysis/assets/140615568/7e1ffb9a-92e8-478e-9105-064352193934)
+![fig 3](https://github.com/Shubhangi-6/Spotify-Data-Analysis/assets/140615568/672cf0cc-5230-4f13-97e0-f0e7e3e64c7e)
+
 
 6. **Elbow Method:**
    - **Objective:** Determine the optimal number of clusters (k) for different scenarios.
