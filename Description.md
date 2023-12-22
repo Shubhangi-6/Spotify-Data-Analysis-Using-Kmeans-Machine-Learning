@@ -27,6 +27,8 @@ Certainly! Let's provide a brief description of each step in the Spotify Data An
 6. **Elbow Method:**
    - **Objective:** Determine the optimal number of clusters (k) for different scenarios.
    - **Process:** Employ the Elbow Method by running k-means with varying values of k and observing the change in Within-Cluster Sum of Squares (WCSS).
+   - ![elbow method 1](https://github.com/Shubhangi-6/Spotify-Data-Analysis/assets/140615568/7e1ffb9a-92e8-478e-9105-064352193934)
+
 
 7. **3 Clustering Scenarios:**
    - **Objective:** Explore clustering with different feature pairs.
