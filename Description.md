@@ -17,6 +17,11 @@ Certainly! Let's provide a brief description of each step in the Spotify Data An
    ![scatterplot 1](https://github.com/Shubhangi-6/Spotify-Data-Analysis/assets/140615568/2d5df39b-daf9-4df0-a174-1abac4452c79)
 
 
+
+
+
+
+
 4. **2D Clustering (track_popularity and danceability):**
    - **Objective:** Explore clusters in a 2D space using two features.
    - **Process:** Standardize selected features using StandardScaler and perform k-means clustering. Visualize the clusters in a 2D scatter plot.
