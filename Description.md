@@ -21,38 +21,40 @@ Analysis Description
 5. **2D Clustering (track_popularity and danceability):**
    - **Objective:** Explore clusters in a 2D space using two features.
    - **Process:** Standardize selected features using StandardScaler and perform k-means clustering. Visualize the clusters in a 2D scatter plot.
-   - ![fig 3](https://github.com/Shubhangi-6/Spotify-Data-Analysis/assets/140615568/d747452c-b8df-428e-87fb-61fb1371b95e)
-   
 
+   
 6. **Elbow Method:**
    - **Objective:** Determine the optimal number of clusters (k) for different scenarios.
    - **Process:** Employ the Elbow Method by running k-means with varying values of k and observing the change in Within-Cluster Sum of Squares (WCSS).
    - ![elbow method 1](https://github.com/Shubhangi-6/Spotify-Data-Analysis/assets/140615568/7e1ffb9a-92e8-478e-9105-064352193934)
 
+7. ** 2d clustering**
+   - ![fig 3](https://github.com/Shubhangi-6/Spotify-Data-Analysis/assets/140615568/d747452c-b8df-428e-87fb-61fb1371b95e)
 
-7. **3 Clustering Scenarios:**
+     
+8. **3 Clustering Scenarios:**
    - **Objective:** Explore clustering with different feature pairs.
    - **Process:** Perform k-means clustering on three pairs of features: ('track_popularity' and 'danceability'), ('energy' and 'loudness'), and ('track_artist' and 'track_name'). Visualize the clusters for each scenario.
    
 
 
-8. **Cluster Labeling:**
+9. **Cluster Labeling:**
    - **Objective:** Add cluster labels to the original dataset.
    - **Process:** Assign cluster labels obtained from k-means clustering to the original DataFrame for further analysis.
 
-9. **Inertia and Silhouette Score:**
+10. **Inertia and Silhouette Score:**
    - **Objective:** Evaluate the performance of the clustering algorithm.
    - **Process:** Calculate inertia (within-cluster sum of squares) and silhouette score to assess the quality of the clusters.
 
-10. **3D Scatter Plot with Plotly:**
+11. **3D Scatter Plot with Plotly:**
    - **Objective:** Visualize clusters in a three-dimensional space.
    - **Process:** Use Plotly to create an interactive 3D scatter plot, incorporating 'track_artist', 'track_name', and 'track_popularity' as axes.
 
-11. **Results and Insights:**
+12. **Results and Insights:**
     - **Objective:** Summarize findings and draw insights from the clustering results.
     - **Process:** Identify distinct clusters, understand relationships between features, and assess the overall success of the clustering.
 
-12. **Next Steps:**
+13. **Next Steps:**
     - **Objective:** Suggest potential future actions based on the analysis.
     - **Process:** Propose further analyses or applications of the clustering results, such as personalized music recommendations or genre categorization.
 
