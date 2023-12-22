@@ -1,4 +1,4 @@
-Certainly! Let's provide a brief description of each step in the Spotify Data Analysis project:
+
 
 1. **Data Loading and Exploration:**
    - **Objective:** Load the Spotify dataset and understand its structure.
@@ -34,6 +34,8 @@ Certainly! Let's provide a brief description of each step in the Spotify Data An
 7. **3 Clustering Scenarios:**
    - **Objective:** Explore clustering with different feature pairs.
    - **Process:** Perform k-means clustering on three pairs of features: ('track_popularity' and 'danceability'), ('energy' and 'loudness'), and ('track_artist' and 'track_name'). Visualize the clusters for each scenario.
+   - ![fig 2](https://github.com/Shubhangi-6/Spotify-Data-Analysis/assets/140615568/50e2edbe-70e8-473d-8796-a72d64a0650a)
+
 
 8. **Cluster Labeling:**
    - **Objective:** Add cluster labels to the original dataset.
