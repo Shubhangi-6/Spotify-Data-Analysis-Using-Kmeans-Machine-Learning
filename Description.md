@@ -28,7 +28,7 @@ Analysis Description
    - **Process:** Employ the Elbow Method by running k-means with varying values of k and observing the change in Within-Cluster Sum of Squares (WCSS).
    - ![elbow method 1](https://github.com/Shubhangi-6/Spotify-Data-Analysis/assets/140615568/7e1ffb9a-92e8-478e-9105-064352193934)
 
-7. **2d clustering**
+7. **2d clustering plt.scatter df['track_popularity'],y = df['danceability'],c= prediction,cmap = 'rainbow'**
    - ![fig 3](https://github.com/Shubhangi-6/Spotify-Data-Analysis/assets/140615568/d747452c-b8df-428e-87fb-61fb1371b95e)
 
 
