@@ -21,6 +21,7 @@
 5. **2D Clustering (track_popularity and danceability):**
    - **Objective:** Explore clusters in a 2D space using two features.
    - **Process:** Standardize selected features using StandardScaler and perform k-means clustering. Visualize the clusters in a 2D scatter plot.
+   - ![fig 3](https://github.com/Shubhangi-6/Spotify-Data-Analysis/assets/140615568/d747452c-b8df-428e-87fb-61fb1371b95e)
    
 
 6. **Elbow Method:**
