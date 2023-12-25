@@ -1,4 +1,4 @@
-# Spotify-Data-Analysis [ Machine Learning]
+# Spotify-Data-Analysis 
 
 **Machine Learning Project on Spotify Data using K-Means Clustering** 🎶🤖
 
