@@ -71,6 +71,8 @@ Analysis Description
    - **Objective:** Visualize clusters in a three-dimensional space.
    - **Process:** Use Plotly to create an interactive 3D scatter plot, incorporating 'track_artist', 'track_name', and 'track_popularity' as axes.
    - ![newplot (1)](https://github.com/Shubhangi-6/Spotify-Data-Analysis/assets/140615568/3417a80c-c782-41c5-8d1d-2008ce3030ca)
+   - A 3D scatter plot is a graphical representation of data in a three-dimensional space. In this plot, each data point is defined by three numeric variables, each corresponding to one of the three axes. It provides a visual way to explore relationships and patterns within a dataset in three dimensions.Users can rotate, zoom, and pan the plot to explore it from different perspectives. A 3D scatter plot is a powerful visualization tool that allows for the exploration of multidimensional datasets, offering a more nuanced understanding of the relationships between variables. 3D scatter plots enable the visualization of complex spatial relationships that cannot be captured in two dimensions.
+Clusters, patterns, or trends within the data can be identified by observing the distribution of points.
 
      
 
