@@ -55,7 +55,9 @@ Analysis Description
    - **Objective:** Explore clustering with different feature pairs.
    - **Process:** Perform k-means clustering on three pairs of features: ('track_popularity' and 'danceability'), ('energy' and 'loudness'), and ('track_artist' and 'track_name'). Visualize the clusters for each scenario.
   
-
+9. ** Clustering of track_artist abd tracke_name**
+   - 
+   - The scatter plot visualizes Spotify music data, where each point represents a track. The x-axis shows the track artist, the y-axis shows the track name, and colors represent clusters assigned by the k-means algorithm. The 'rainbow' colormap distinguishes different clusters, offering a quick insight into how tracks are grouped based on artist, name, and cluster assignments.
      
 9. **Cluster Labeling:**
    - **Objective:** Add cluster labels to the original dataset.
