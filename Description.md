@@ -32,6 +32,23 @@ Analysis Description
    - ![fig 3](https://github.com/Shubhangi-6/Spotify-Data-Analysis/assets/140615568/d747452c-b8df-428e-87fb-61fb1371b95e)
    - This figure is a scatter plot where each point represents a music track from the Spotify dataset. The x-axis shows the standardized values of 'track_popularity,' and the y-axis shows the standardized values of 'danceability.' The points are color-coded based on the clusters assigned by the k-means algorithm, with different colors indicating different clusters. The 'rainbow' colormap is used for visual distinction. This plot allows for the visualization of how tracks are grouped or clustered based on their popularity and danceability characteristics.
 
+8. **Clustering of Energy and Loudness**
+   - ![fig 4](https://github.com/Shubhangi-6/Spotify-Data-Analysis/assets/140615568/57d8b36b-4459-4083-930d-ab96c63d2ecb)
+   - The code snippet suggests clustering based on 'energy' and 'loudness' features from the Spotify dataset:
+
+- **Variables:**
+  - x-axis: 'energy'
+  - y-axis: 'loudness'
+
+- **Visualization:**
+  - A scatter plot displays tracks, with x representing energy and y representing loudness.
+
+- **Clustering:**
+  - Apply k-means clustering to group tracks.
+  - Determine the optimal cluster count using the elbow method.
+
+- **Result:**
+  - Visualize clustered tracks in the scatter plot with distinct colors for each cluster.
 
 
 8. **Clustering Scenarios:**
