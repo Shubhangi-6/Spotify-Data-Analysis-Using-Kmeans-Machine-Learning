@@ -70,6 +70,8 @@ Analysis Description
 11. **3D Scatter Plot with Plotly:**
    - **Objective:** Visualize clusters in a three-dimensional space.
    - **Process:** Use Plotly to create an interactive 3D scatter plot, incorporating 'track_artist', 'track_name', and 'track_popularity' as axes.
+   - ![newplot (1)](https://github.com/Shubhangi-6/Spotify-Data-Analysis/assets/140615568/3417a80c-c782-41c5-8d1d-2008ce3030ca)
+
      
 
 12. **Results and Insights:**
