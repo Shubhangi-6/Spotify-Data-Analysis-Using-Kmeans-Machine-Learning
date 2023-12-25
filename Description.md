@@ -56,20 +56,21 @@ Analysis Description
    - **Process:** Perform k-means clustering on three pairs of features: ('track_popularity' and 'danceability'), ('energy' and 'loudness'), and ('track_artist' and 'track_name'). Visualize the clusters for each scenario.
   
 9. ** Clustering of track_artist abd tracke_name**
-   - 
+   - ![fig 1](https://github.com/Shubhangi-6/Spotify-Data-Analysis-Machine-learning/assets/140615568/4b691243-24fa-44bf-87eb-ccdcb6b2857f)
+
    - The scatter plot visualizes Spotify music data, where each point represents a track. The x-axis shows the track artist, the y-axis shows the track name, and colors represent clusters assigned by the k-means algorithm. The 'rainbow' colormap distinguishes different clusters, offering a quick insight into how tracks are grouped based on artist, name, and cluster assignments.
      
-9. **Cluster Labeling:**
+10. **Cluster Labeling:**
    - **Objective:** Add cluster labels to the original dataset.
    - **Process:** Assign cluster labels obtained from k-means clustering to the original DataFrame for further analysis.
      
 
-10. **Inertia and Silhouette Score:**
+11. **Inertia and Silhouette Score:**
    - **Objective:** Evaluate the performance of the clustering algorithm.
    - **Process:** Calculate inertia (within-cluster sum of squares) and silhouette score to assess the quality of the clusters.
      
 
-11. **3D Scatter Plot with Plotly:**
+12. **3D Scatter Plot with Plotly:**
    - **Objective:** Visualize clusters in a three-dimensional space.
    - **Process:** Use Plotly to create an interactive 3D scatter plot, incorporating 'track_artist', 'track_name', and 'track_popularity' as axes.
    - ![newplot (1)](https://github.com/Shubhangi-6/Spotify-Data-Analysis/assets/140615568/3417a80c-c782-41c5-8d1d-2008ce3030ca)
@@ -78,15 +79,15 @@ Clusters, patterns, or trends within the data can be identified by observing the
 
      
 
-12. **Results and Insights:**
+13. **Results and Insights:**
     - **Objective:** Summarize findings and draw insights from the clustering results.
     - **Process:** Identify distinct clusters, understand relationships between features, and assess the overall success of the clustering.
 
 
-13. **Next Steps:**
+14. **Next Steps:**
     - **Objective:** Suggest potential future actions based on the analysis.
     - **Process:** Propose further analyses or applications of the clustering results, such as personalized music recommendations or genre categorization.
 
-13. **Note:**
+15. **Note:**
     - **Objective:** Provide additional information about the project.
     - **Content:** Explain the methodology and tools used, emphasizing the application of unsupervised machine learning (K-Means) to uncover patterns in Spotify music data. Highlight the interactive 3D scatter plot as a visual representation of the clustered data.
