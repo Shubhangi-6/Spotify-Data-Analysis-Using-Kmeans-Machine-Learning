@@ -20,8 +20,8 @@ Analysis Description
 
 
  4. **Scatter plot of track_popularity and danceability**
-    - A scatter plot is a visual representation of data points in a two-dimensional space. Each point on the plot corresponds to specific values of two variables, with the x and y coordinates representing those values. Scatter plots help explore relationships between variables, identify trends, clusters, or outliers, and are useful for visualizing patterns in data. They typically include axes, markers, labels, and other elements to enhance interpretation.
     - ![scatterplot 1](https://github.com/Shubhangi-6/Spotify-Data-Analysis/assets/140615568/2d5df39b-daf9-4df0-a174-1abac4452c79)
+    -  A scatter plot is a visual representation of data points in a two-dimensional space. Each point on the plot corresponds to specific values of two variables, with the x and y coordinates representing those values. Scatter plots help explore relationships between variables, identify trends, clusters, or outliers, and are useful for visualizing patterns in data. They typically include axes, markers, labels, and other elements to enhance interpretation.
 
 
 
@@ -34,9 +34,9 @@ Analysis Description
 
    
 6. **Elbow Method:**
+   - ![elbow method 1](https://github.com/Shubhangi-6/Spotify-Data-Analysis/assets/140615568/7e1ffb9a-92e8-478e-9105-064352193934)
    - **Objective:** Determine the optimal number of clusters (k) for different scenarios.
    - **Process:** Employ the Elbow Method by running k-means with varying values of k and observing the change in Within-Cluster Sum of Squares (WCSS).
-   - ![elbow method 1](https://github.com/Shubhangi-6/Spotify-Data-Analysis/assets/140615568/7e1ffb9a-92e8-478e-9105-064352193934)
 
 
 
